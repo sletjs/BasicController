@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/sletjs/BasicController#readme",
   "dependencies": {
-    "slet-basecontroller": "^1.0.7"
+    "slet-basecontroller": "^1.4.0"
   }
 }
